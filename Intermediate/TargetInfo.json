@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "HttpTest",
+			"Path": "C:\\Users\\Rayen\\Documents\\Unreal Projects\\HttpTest\\Source\\HttpTest.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "HttpTestEditor",
+			"Path": "C:\\Users\\Rayen\\Documents\\Unreal Projects\\HttpTest\\Source\\HttpTestEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\HttpTest.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{ED75A413-4226-49A0-9C17-651189C71B42}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\HttpTest.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\HttpTestEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{4FA4CF6B-D9C6-4A4E-978B-667FB120C8B8}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\HttpTest">
+      <UniqueIdentifier>{D058E28A-6CF3-4AF6-A4F3-0FDAD4D51B83}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\HttpTest\HttpTest.Build.cs">
+      <Filter>Source\HttpTest</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\HttpTest\HttpTest.cpp">
+      <Filter>Source\HttpTest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HttpTest\HttpTest.h">
+      <Filter>Source\HttpTest</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\HttpTest\HttpTestCharacter.cpp">
+      <Filter>Source\HttpTest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HttpTest\HttpTestCharacter.h">
+      <Filter>Source\HttpTest</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\HttpTest\HttpTestGameMode.cpp">
+      <Filter>Source\HttpTest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HttpTest\HttpTestGameMode.h">
+      <Filter>Source\HttpTest</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

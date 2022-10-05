@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Rayen\\OneDrive\\Documents\\Unreal Projects\\HttpTest\\Source\\HttpTest\\HttpTest.Build.cs",
+		"C:\\Users\\Rayen\\OneDrive\\Documents\\Unreal Projects\\HttpTest\\Source\\HttpTest.Target.cs",
+		"C:\\Users\\Rayen\\OneDrive\\Documents\\Unreal Projects\\HttpTest\\Source\\HttpTestEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}
